@@ -1,15 +1,13 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "updateContent": [
-        "Added weather forecast feature, displaying 5-day weather information",
-        "Enhanced current weather display, including high temperature, low temperature, feels-like temperature, humidity, and pressure",
-        "Optimized weather information interface layout and style",
-        "Added password feature, allowing 4-8 character password protection for screensaver exit (supports letters, numbers, and special characters)",
-        "Added master password feature: Press ESC three times consecutively and enter \"wjmm\" to unlock",
-        "Added command-line tool support (actually existed in the previous version but wasn't added to GUI), can run RuanmScreensaver command from any directory via Path environment variable"
+        "1. 优化了设置界面底部按钮的排版和CSS样式，使其更美观",
+        "2. 增加了检查更新按钮，自动从更新服务器检查新版本，并调用Assets/UpdateHelper.exe进行更新",
+        "3. 增加了可视化编辑按钮，可直接在设置界面中编辑和预览屏保界面",
+        "4. 增加了设置开机自启动按钮，可设置程序开机自动启动"
     ],
     "download": {
-        "installer": "https://github.com/RuanMingze/Ruanm-RuanmScreensaver/releases/download/v1.0.1/Ruanm.Screensaver-1.0.1.exe",
-        "zip": "https://github.com/RuanMingze/Ruanm-RuanmScreensaver/releases/download/v1.0.1/RuanmScreensaver.zip"
+        "installer": "https://github.com/RuanMingze/Ruanm-Screensaver/releases/download/v1.0.2/Ruanm.Screensaver-1.0.2.exe",
+        "zip": "https://github.com/RuanMingze/Ruanm-Screensaver/releases/download/v1.0.2/RuanmScreensaver.zip"
     }
 }
