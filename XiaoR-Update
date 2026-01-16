@@ -1,0 +1,12 @@
+{
+    "version": "1.2.4",
+    "updateContent": [
+        "1. 添加了通知功能，如果AI输出完毕了，并且窗口没有聚焦，会发送通知",
+        "2. 为对话列表添加固定按钮，固定后只有关闭按钮可以关闭对话列表",
+        "3. 悬浮球添加右键菜单功能，可以显示主窗口、停用悬浮球（临时或永久）以及关闭小R助手"
+
+    ],
+    "download": {
+        "zip": "https://github.com/RuanMingze/XiaoR-Ai/releases/download/v1.2.4/XiaoR.zip"
+    }
+}
